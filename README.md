@@ -1,2 +1,2 @@
 # eyeMovement
-In this exercise we take controle of the DOM in order to get a fun eye ball excersize that looks back and forth on the event of the mouse moving. Press start to start looking around and have fun!
+In this exercise we take controle of the Document Object Model in order to start a fun eye ball excersize that looks back and forth on the event of the mouse moving. Press the start button to start looking around; reload the page or return to the previous in order to stop the exercise. I think it would be cool to add more eyes of different sizes and colors that will join the viewing in the future. Licence: MIT
